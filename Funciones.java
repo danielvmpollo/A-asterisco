@@ -1,5 +1,8 @@
-//package pkg_main;
-
+/*
+Hecho por:
+Asomoza Ponce Juan Carlos
+Villegas Moreno Zeuxis Daniel
+*/
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;

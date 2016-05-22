@@ -1,6 +1,10 @@
+/*
+Hecho por:
+Asomoza Ponce Juan Carlos
+Villegas Moreno Zeuxis Daniel
+*/
 import java.util.ArrayList;
 import java.util.Collections;
-//import java.lang.Thread;
 import java.util.Scanner;
 
 public class AAsterisco {

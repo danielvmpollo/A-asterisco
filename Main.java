@@ -1,3 +1,8 @@
+/*
+Hecho por:
+Asomoza Ponce Juan Carlos
+Villegas Moreno Zeuxis Daniel
+*/
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
@@ -52,5 +57,3 @@ public class Main {
 		}
 	}
 }
-
-//http://sub-soul.blogspot.mx/2013/06/pathfinder-algoritmo-java.html
